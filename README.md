@@ -1,7 +1,7 @@
 # hey mates ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)im rob
 
 ## developer 
-_**ive been learning to code for 2 years, after switching careers. i started with c# and python and am currently learning frontend development.**_  
+_**ive been learning to code for 2 years, after switching careers. i started with c# and python and am currently learning frontend development**_  
 * 🌍  i am based in germany 
 * 🚀  i am currently working on my portfolio and a secret heart project
 * 🧠  currently i am learning everything around javascript
