@@ -1,4 +1,4 @@
-hey mates ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is robin reinecke ======================================================================================================================================  
+hey mates ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is robin reinecke =============================================================================================================================================  
 Developer 
 ---------  
 ive been learning to code for 2 years, after switching careers. i started with c# and python and am currently learning frontend development.  
