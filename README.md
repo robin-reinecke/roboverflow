@@ -1,6 +1,7 @@
-# **hey mates im rob![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
+# **Hello mates, I'm Rob![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
 
-_**ive been learning to code for 2 years, after switching careers. i started with c# and python and am currently learning frontend development**_  
+_**I have been learning programming for 2 years after changing my job. I started with C# and Python and am currently learning frontend development. But most of the time I play with APIs otherwise.**_  
+
 * 🌍  i am based in germany 
 * 🚀  i am currently working on my portfolio and a secret heart project
 * 🧠  currently i am learning everything around javascript
