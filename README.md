@@ -4,7 +4,7 @@ _**ive been learning to code for 2 years, after switching careers. i started wit
 * 🌍  i am based in germany 
 * 🚀  i am currently working on my portfolio and a secret heart project
 * 🧠  currently i am learning everything around javascript
-* 🥦  go vegan
+* 🥦  and btw: go vegan!
 
 
 ## skills  
