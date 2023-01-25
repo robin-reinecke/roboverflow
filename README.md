@@ -2,9 +2,9 @@
 
 _**I have been learning programming for 2 years after changing my job. I started with C# and Python and am currently learning frontend development. But most of the time I play with APIs otherwise.**_  
 
-* 🌍  I am based in Germany 
-* 🚀  I am currently working on my portfolio and a secret heart project
-* 🧠  Currently I am learning everything about Javascript
+* 🌍  based in Germany 
+* 🚀  currently working on my portfolio, a tool for encrypting files and a secret heart project
+* 🧠  learning all about Swift and a little JavaScript in the meantime
 * 🥦  and BTW, go vegan!
 
 
